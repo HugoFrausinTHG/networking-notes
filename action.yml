@@ -1,6 +1,6 @@
-name: 'Your Action Name'
+name: 'networking-notes'
 description: 'Action description'
-author: 'Your name'
+author: 'test'
 runs:
   using: 'docker'
   image: 'Dockerfile'
